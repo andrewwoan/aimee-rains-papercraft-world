@@ -1,4 +1,4 @@
-# 📄 Aimee Rain's Papercraft Portfolio World ✂️
+# 📄 Aimee Xu's Papercraft Portfolio World ✂️
 
 **[Live site](https://aimees-papercraft-world.com/)** | **[Article - Coming Soon]()** | **[Tutorial](https://youtu.be/AD01pTr3gvw)**
 
@@ -15,6 +15,7 @@ This repo contains code of Aimee's Papercraft Portfolio for a Codrops article an
 - [Winter Inspiration](https://www.amazon.com/Laeacco-Christmas-Grassland-Paper-Cut-Background/dp/B07J57237R?th=1)
 - [Joshua's World Inspiration](https://www.awwwards.com/sites/joshuas-world)
 - [Bilal Show Inspiration](https://bilal.show/)
+- [Stick idea](https://x.com/mesqme)
 - [Cabin smoke Inspiration](https://www.pinterest.com/pin/521502831860325373/)
 - [Dragon is dragonair From Pokemon](https://www.pokemon.com/us/pokedex/dragonair)
 - [Slime is from Genshin Impact](https://genshin-impact.fandom.com/wiki/Hydro_Slime)
